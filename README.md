@@ -3,10 +3,14 @@ The course on Higher Mathematics forms part of the Water Engineering Master and 
 
 The course has four main components:
 - statistics
-- functions
+- functions, differentiation and integration
 - differential equations
 - matrices and optimization
 
 ## Statistics
 
 In statistics the extreme value estimation is presented introducing the important probability distributions for extreme values, the skewness as the third moment. The identification of probability distributions, the estimation of their moments and parameters and the application for extreme value estimation are practiced. 
+
+## Functions
+
+In relation to functions the application of optimization methods is described such as the Newton-Raphson method. Important functions in hydrology and water resources engineering are introduced such as the Gamma function, the error function, the exponential function and logarithms. 
