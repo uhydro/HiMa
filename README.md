@@ -9,7 +9,7 @@ The course has four main components:
 
 ## Statistics
 
-In statistics the extreme value estimation is presented introducing the important probability distributions for extreme values, the skewness as the third moment. The identification of probability distributions, the estimation of their moments and parameters and the application for extreme value estimation are practiced. The critical scientific method and hypothesis testing are described. This section also includes linear regression using one or more variables and trend analysis in time series. The maximum likelihood method is introduced for parameter estimation. Baysian statistics as compared to classical statistics are described. 
+In statistics the extreme value estimation is presented introducing the important probability distributions for extreme values, the skewness as the third moment. The identification of probability distributions, the estimation of their moments and parameters and the application for extreme value estimation are practiced. The critical scientific method and hypothesis testing are described. This section also includes linear regression using one or more variables and trend analysis in time series. The maximum likelihood method is introduced for parameter estimation. Baysian statistics as compared to classical statistics are described. In the subsection on geostatistics inverse distance methods, regionalization and kriging are described.  
 
 ## Functions
 
