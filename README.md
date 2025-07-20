@@ -14,3 +14,7 @@ In statistics the extreme value estimation is presented introducing the importan
 ## Functions
 
 In relation to functions the application of optimization methods is described such as the Newton-Raphson method. Important functions in hydrology and water resources engineering are introduced such as the Gamma function, the error function, the exponential function and logarithms. 
+
+## Differential equations
+
+The use of differential equations in water engineering is described. This part of the lecture refers to the excellent book of Soetert on Differential equations. The use of DE in compartment modeling, is described in more detail. Important differential equations in soil physics, river routing, groundwater flow are discussed. 
