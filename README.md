@@ -21,11 +21,11 @@ The application of Linear Algebra and Matrices in Water Engineering is described
 
 In relation to functions the application of optimization methods is described such as the Newton-Raphson method. Important functions in hydrology and water resources engineering are introduced such as the Gamma function, the error function, the exponential function and logarithms. 
 
-## Differential equations
+## Differential Equations
 
 The use of differential equations in water engineering is described. This part of the lecture refers to the excellent book of Soetert on Differential equations. The use of DE in compartment modeling, is described in more detail. Important differential equations in soil physics, river routing, groundwater flow are discussed. 
 
-## Machine learning
+## Machine Learning and Neural Networks
 
 Important machine learning techniques and methods are introduced. Classification by k-means cluster analysis also coupled to principle component analysis is described. Different methods of regression are introduced. Support Vector Machimes (SVM), random forest, reinforecment learning, one or multiple layer feedforward networks and deep neural networks are demonstrated. XGBoost methods are outlined.
 
