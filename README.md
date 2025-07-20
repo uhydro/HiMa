@@ -3,6 +3,7 @@ The course on Higher Mathematics forms part of the Water Engineering Master and 
 
 The course has four main components:
 - statistics
+- functions
 - differential equations
 - matrices and optimization
-- functions
+
