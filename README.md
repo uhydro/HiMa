@@ -2,7 +2,7 @@
 
 The course on Higher Mathematics forms part of the Water Engineering Master and is offered in the first (winter) semester.
 
-The course has four main components:
+The course has five main components:
 - statistics
 - matrices and optimization
 - functions, differentiation and integration
