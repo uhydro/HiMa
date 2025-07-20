@@ -18,3 +18,7 @@ In relation to functions the application of optimization methods is described su
 ## Differential equations
 
 The use of differential equations in water engineering is described. This part of the lecture refers to the excellent book of Soetert on Differential equations. The use of DE in compartment modeling, is described in more detail. Important differential equations in soil physics, river routing, groundwater flow are discussed. 
+
+## Matrices, Linear Algebra and Optimization
+
+The application of Linear Algebra and Matrices in Water Engineering is described. The applications are demonstrated in solving systems of linear equations, e.g. for end member analysis and inverse mixing models, or for optimization.
